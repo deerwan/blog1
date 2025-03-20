@@ -1,0 +1,8 @@
+
+hexo clean && hexo generate && hexo deploy
+
+
+hexo clean：清除缓存，简写 hexo -c
+hexo generate：生成渲染，简写 hexo -g
+hexo deploy：部署到 GitHub Pages，简写 hexo -d
+hexo server：启动本地预览，简写 hexo -s

@@ -1,0 +1,31 @@
+---
+title: 玩客云Armbian(CasaOS)使用指南
+date: 2024-08-08 22:05:54
+
+tags: 
+
+---
+
+---
+
+
+<!-- more -->
+
+清除掉旧的数据
+
+hexo clean
+
+生成新的页面
+
+hexo g
+
+本地预览
+
+hexo s
+
+部署到Github
+
+hexo d
+
+在hexo中插入图片
+![图片描述](images/your-image.png)
