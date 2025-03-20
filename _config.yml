@@ -11,7 +11,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://952780.xyz/
+url: https://blog1.952780.xyz/
 # url: http://localhost:4000/
 root: /
 permalink: :year/:month/:day/:title/
